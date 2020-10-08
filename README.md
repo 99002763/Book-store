@@ -4,6 +4,8 @@
 
 ![cppcheck-action](https://github.com/99002763/Book-store/workflows/cppcheck-action/badge.svg)
 
+![CI](https://github.com/99002763/Book-store/workflows/CI/badge.svg)
+
 
 ![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg)
 ![Unit testing](https://github.com/stepin654321/MiniProject_Template/workflows/Unit%20testing/badge.svg)
